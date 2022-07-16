@@ -8,6 +8,6 @@
 
 
 
-
+![snake gif](https://github.com/giovannalencar/GIOVANNALENCAR/blob/output/github-contribution-grid-snake.svg)
 
 
